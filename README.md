@@ -30,12 +30,7 @@ Actually:
     />
   </a>
  
-  <a href="https://go.mikecodeur.com/next-mastery" >
-    <img width="100"
-      alt="Apprendre React"
-      src="https://mikecodeur.com/mike/assets/mikecodeur-trans.png"
-    />
-  </a>
+ 
 
 ### Connect with me:
 
