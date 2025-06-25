@@ -1,5 +1,5 @@
-# Mike Codeur
-I'm Mike from France, living in Bali 🌴, FullStack developper and Mentor/Teacher, I do content on Development and Freelancing. I really enjoy learning languages and frameworks like JS and React. 
+# Maxime Dorlin
+I'm Maxime from Cameroun, living in Bali 🌴, FullStack developper and Mentor/Teacher, I do content on Development. I really enjoy learning languages and frameworks like spring boot, django, next js and React js. 
 
 <!--
 **maximedorlin/maximedorlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
