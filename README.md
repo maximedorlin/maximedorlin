@@ -926,10 +926,10 @@ motto: >
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VOTRE_PROFIL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a9396?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VOTRE_USERNAME)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/VOTRE_NUMERO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximedorlin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a9396?style=for-the-badge&logo=vercel&logoColor=white)](https://maximedorlin.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maximedorlin)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+237698479638)
 
 <br/>
 
