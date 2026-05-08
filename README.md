@@ -1,17 +1,34 @@
 <!-- HERO BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Software%20Architect&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20ERP%20Integrator%20%7C%20Scalable%20Systems%20Designer&descAlignY=58&descColor=a0a0ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:0a9396&height=220&section=header&text=Software%20Architect&fontSize=42&fontColor=94d2bd&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20ERP%20Integrator%20%7C%20Scalable%20Systems%20Designer&descAlignY=58&descColor=caf0f8&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG Animation -->
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&multiline=true&width=800&height=80&lines=🏗️+Software+Architect+%26+Fullstack+Engineer;⚙️+ERP+Integrator+%7C+Microservices+Designer;🚀+Building+Scalable+%26+High-Performance+Systems)](https://git.io/typing-svg)
+<!-- ASCII NAME BANNER -->
+
+```
+███╗   ███╗ █████╗ ██╗  ██╗██╗███╗   ███╗███████╗    ███╗   ██╗ ██████╗ ██╗   ██╗██╗  ██╗███████╗████████╗ ██████╗ ██╗   ██╗
+████╗ ████║██╔══██╗╚██╗██╔╝██║████╗ ████║██╔════╝    ████╗  ██║██╔═══██╗██║   ██║██║ ██╔╝██╔════╝╚══██╔══╝██╔═══██╗██║   ██║
+██╔████╔██║███████║ ╚███╔╝ ██║██╔████╔██║█████╗      ██╔██╗ ██║██║   ██║██║   ██║█████╔╝ █████╗     ██║   ██║   ██║██║   ██║
+██║╚██╔╝██║██╔══██║ ██╔██╗ ██║██║╚██╔╝██║██╔══╝      ██║╚██╗██║██║   ██║██║   ██║██╔═██╗ ██╔══╝     ██║   ██║   ██║██║   ██║
+██║ ╚═╝ ██║██║  ██║██╔╝ ██╗██║██║ ╚═╝ ██║███████╗    ██║ ╚████║╚██████╔╝╚██████╔╝██║  ██╗███████╗   ██║   ╚██████╔╝╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚══════╝    ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝  ╚═════╝
+```
+
+<div align="center">
+
+<!-- Typing SVG -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=0a9396&center=true&vCenter=true&multiline=true&width=900&height=90&lines=🏗️+Software+Architect+%26+Senior+Fullstack+Engineer;⚙️+ERP+Odoo+Integrator+%7C+Microservices+%7C+SaaS+Designer;🚀+Building+Scalable%2C+Secure+%26+High-Performance+Systems;🌍+Cameroon+—+Engineering+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=VOTRE_USERNAME&style=for-the-badge&color=7B68EE&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/VOTRE_USERNAME?style=for-the-badge&color=7B68EE&labelColor=1a1a2e)
-![GitHub Stars](https://img.shields.io/github/stars/VOTRE_USERNAME?style=for-the-badge&color=7B68EE&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=VOTRE_USERNAME&style=for-the-badge&color=0a9396&label=PROFILE+VIEWS&labelColor=0d1b2a)
+![GitHub Followers](https://img.shields.io/github/followers/VOTRE_USERNAME?style=for-the-badge&color=0a9396&labelColor=0d1b2a)
+![GitHub Stars](https://img.shields.io/github/stars/VOTRE_USERNAME?style=for-the-badge&color=1b4965&labelColor=0d1b2a)
+![Open Source](https://img.shields.io/badge/Open_Source-Advocate-0a9396?style=for-the-badge&labelColor=0d1b2a)
+![Available](https://img.shields.io/badge/Status-Available_for_Work-00b4d8?style=for-the-badge&labelColor=0d1b2a)
 
 </div>
 
@@ -23,63 +40,79 @@
 
 <div align="center">
 
-## 〔 `Hello World` 〕
+## 〔 `Hello, World` 〕
 
 </div>
 
 ```java
 /**
- * @author   VOTRE NOM
- * @version  PRODUCTION
- * @since    2024
- * @location Cameroon 🌍
+ * ╔══════════════════════════════════════════════════════════════╗
+ * ║           MAXIME NOUKETOU — SOFTWARE ARCHITECT              ║
+ * ║     Fullstack Engineer · ERP Integrator · SaaS Builder      ║
+ * ╚══════════════════════════════════════════════════════════════╝
+ *
+ * @author   Maxime NOUKETOU
+ * @version  PRODUCTION_READY
+ * @since    2020
+ * @location Cameroon, Africa 🌍
+ * @status   Open to Collaboration & Consulting
  */
 
 @SoftwareArchitect
 @SeniorEngineer
-public final class Developer {
+@ERPSpecialist
+public final class MaximeNOUKETOU {
 
-    private static final String NAME       = "VOTRE NOM";
-    private static final String ROLE       = "Fullstack Engineer & Software Architect";
-    private static final String LOCATION   = "Cameroon, Africa 🌍";
-    private static final String STATUS     = "Open to Collaboration & Opportunities";
+    // ── Identity ────────────────────────────────────────────────
+    private static final String NAME     = "Maxime NOUKETOU";
+    private static final String ROLE     = "Software Architect & Senior Fullstack Engineer";
+    private static final String LOCATION = "Cameroon, Africa 🌍";
+    private static final String MISSION  = "Designing systems that scale. Engineering solutions that last.";
 
+    // ── Core Expertise ──────────────────────────────────────────
     private final String[] expertise = {
-        "🏗️  Software Architecture & System Design",
-        "⚡  Backend Engineering (Django · Spring Boot · Node.js)",
-        "🎨  Frontend Engineering (React · Next.js · Vue.js)",
-        "📱  Mobile Development (Flutter · React Native)",
-        "🔗  ERP Integration & Odoo Customization",
-        "☁️  Microservices & Scalable Platforms",
-        "🔐  API Design · JWT · Security First",
-        "🐳  DevOps · Docker · CI/CD Pipelines"
+        "🏗️  Software Architecture & Clean System Design",
+        "⚡  Backend Engineering   → Django · Spring Boot · Node.js · Symfony",
+        "🎨  Frontend Engineering  → React · Next.js · Vue.js · Angular · TypeScript",
+        "📱  Mobile Development    → Flutter · React Native",
+        "🔗  ERP Integration       → Odoo · OWL Framework · XML-RPC",
+        "☁️  Microservices & SaaS  → Docker · JHipster · API Gateway",
+        "🔐  Security & Auth       → JWT · OAuth2 · RBAC · HTTPS",
+        "📊  Observability         → Grafana · SonarQube · Elasticsearch · Nginx",
+        "🐳  DevOps & CI/CD        → GitHub Actions · Docker · Linux · CI/CD"
     };
 
+    // ── Architecture Principles ─────────────────────────────────
     private final Philosophy philosophy = new Philosophy()
-        .add("Clean Code")
-        .add("SOLID Principles")
+        .add("Clean Architecture")
         .add("Domain Driven Design")
+        .add("SOLID Principles")
         .add("Event Driven Architecture")
-        .add("Performance & High Availability");
+        .add("Security First")
+        .add("Performance by Design")
+        .add("High Availability");
 
+    // ── Lifecycle ───────────────────────────────────────────────
+    @PostConstruct
     public void initialize() {
-        System.out.println("🚀 Designing systems that scale.");
-        System.out.println("⚙️  Engineering solutions that last.");
-        System.out.println("🎯  Delivering value through great architecture.");
+        log.info("🚀 Designing systems that scale.");
+        log.info("⚙️  Engineering solutions that last.");
+        log.info("🎯  Delivering value through great architecture.");
+        log.info("🌍  Building from Cameroon. Impacting globally.");
     }
 
-    public String getCurrentFocus() {
-        return "Building enterprise-grade SaaS platforms & ERP systems.";
-    }
-
+    public String getMission()         { return MISSION; }
     public boolean isAvailableForWork() { return true; }
+    public String getCurrentFocus()    {
+        return "Enterprise ERP · SaaS Platforms · Microservices Architecture";
+    }
 }
 ```
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 2 — PYTHON CLASS: ABOUT ME                        -->
+<!-- SECTION 2 — ABOUT ME (PYTHON)                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -91,157 +124,72 @@ public final class Developer {
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Module      : about_me.py
-Engineer    : VOTRE NOM
-Description : Who I am, what I build, why it matters.
-"""
+# ╔══════════════════════════════════════════════════════════════╗
+# ║  about_me.py          Engineer : Maxime NOUKETOU            ║
+# ║  Version : PROD       Location : Cameroon 🌍                ║
+# ╚══════════════════════════════════════════════════════════════╝
 
 from dataclasses import dataclass, field
 from typing import List
 
 @dataclass
-class SoftwareArchitect:
+class MaximeNOUKETOU:
     """
-    Passionate engineer focused on building robust, scalable,
-    and maintainable software systems — from architecture blueprints
-    to production-ready deployments.
+    Passionate Software Architect & Fullstack Engineer.
+    I design robust, scalable, and maintainable systems
+    — from architecture blueprints to production deployments.
     """
 
-    name: str        = "VOTRE NOM"
-    title: str       = "Fullstack Engineer · Software Architect · ERP Integrator"
-    location: str    = "Cameroon 🌍"
-    available: bool  = True
+    name      : str  = "Maxime NOUKETOU"
+    title     : str  = "Software Architect · Fullstack Engineer · ERP Integrator"
+    location  : str  = "Cameroon 🌍"
+    available : bool = True
 
     passions: List[str] = field(default_factory=lambda: [
-        "Clean Architecture & Domain Driven Design",
-        "High-performance RESTful APIs & Microservices",
-        "ERP customization & enterprise automation with Odoo",
-        "Industrializing dev workflows with JHipster & CI/CD",
-        "Building SaaS products that solve real-world problems",
-        "Mobile-first experiences with Flutter & React Native",
+        "🏛️  Clean Architecture & Domain Driven Design",
+        "🚀  High-performance RESTful APIs & Microservices",
+        "🔗  ERP automation & Odoo deep customization",
+        "⚙️  Dev industrialization with JHipster & CI/CD",
+        "📦  Building SaaS products that solve real problems",
+        "📱  Mobile-first experiences: Flutter & React Native",
+        "📊  Monitoring & observability: Grafana · Elastic · Sonar",
+        "🛡️  Security engineering: JWT · OAuth2 · RBAC · Nginx",
     ])
 
-    currently_doing: List[str] = field(default_factory=lambda: [
-        "🔭 Designing scalable microservices architectures",
-        "🌱 Deepening expertise in Event Driven Architecture",
-        "🤝 Open for freelance, collaborations & consulting",
-        "📦 Contributing to open-source ERP tooling",
+    currently: List[str] = field(default_factory=lambda: [
+        "🔭 Architecting scalable enterprise microservices",
+        "🌱 Mastering Event Driven Architecture & CQRS",
+        "🤝 Open for freelance, consulting & collaboration",
+        "🧩 Contributing to open-source ERP & DevOps tooling",
     ])
 
     def vision(self) -> str:
         return (
-            "Great software is not just written — it's engineered. "
+            "Great software is not written — it is engineered. "
             "Every line of code should reflect intention, clarity, and craftsmanship. "
             "My mission: design systems that scale, teams that thrive, "
-            "and products that endure."
+            "and products that endure far beyond their first release."
         )
 
-    def contact(self) -> dict:
-        return {
-            "email"    : "votre@email.com",
-            "linkedin" : "linkedin.com/in/VOTRE_PROFIL",
-            "portfolio": "yourportfolio.dev",
-            "github"   : "github.com/VOTRE_USERNAME",
-        }
+    def __repr__(self) -> str:
+        return f"<Engineer: {self.name} | {self.title} | 📍 {self.location}>"
 
 if __name__ == "__main__":
-    me = SoftwareArchitect()
-    print(f"👋 Hi, I'm {me.name}")
-    print(f"💡 Vision: {me.vision()}")
+    me = MaximeNOUKETOU()
+    print(f"👋  Hi, I'm {me.name}")
+    print(f"💡  {me.vision()}")
+    print(f"📍  {me.__repr__()}")
 ```
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 3 — TYPESCRIPT INTERFACE: TECH PROFILE            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 〔 `Tech Profile` 〕
-
-</div>
-
-```typescript
-// tech-profile.ts
-// ─────────────────────────────────────────────────────────────
-// Engineer   : VOTRE NOM
-// Role       : Software Architect & Fullstack Engineer
-// ─────────────────────────────────────────────────────────────
-
-interface TechStack {
-  backend: string[];
-  frontend: string[];
-  mobile: string[];
-  erp: string[];
-  devops: string[];
-  databases: string[];
-  architecture: string[];
-}
-
-interface EngineerProfile {
-  name: string;
-  stack: TechStack;
-  principles: string[];
-  available: boolean;
-}
-
-const profile: EngineerProfile = {
-  name: "VOTRE NOM",
-  available: true,
-
-  stack: {
-    backend: ["Python", "Django", "DRF", "Java", "Spring Boot", "Node.js"],
-    frontend: ["React.js", "Next.js", "Vue.js", "TypeScript", "TailwindCSS"],
-    mobile: ["Flutter", "React Native"],
-    erp: ["Odoo", "PostgreSQL", "XML-RPC", "OWL Framework"],
-    devops: ["Docker", "Git", "Linux", "CI/CD", "JHipster", "GitHub Actions"],
-    databases: ["PostgreSQL", "MySQL", "Redis", "MongoDB"],
-    architecture: [
-      "Microservices",
-      "REST APIs",
-      "Event Driven Architecture",
-      "Domain Driven Design",
-      "Clean Architecture",
-      "CQRS",
-      "API Gateway",
-      "JWT / OAuth2",
-    ],
-  },
-
-  principles: [
-    "SOLID",
-    "DRY",
-    "KISS",
-    "YAGNI",
-    "Separation of Concerns",
-    "Test Driven Development",
-    "Security First",
-    "Performance by Design",
-  ],
-};
-
-export const buildGreatSoftware = (): void => {
-  console.log(
-    `🚀 ${profile.name} — Architecting the future, one commit at a time.`,
-  );
-};
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 4 — VISUAL TECH STACK                             -->
+<!-- SECTION 3 — TECH STACK VISUAL                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 〔 `Tech Stack` 〕
-
-</div>
-
-<div align="center">
 
 ### ⚡ Backend
 
@@ -250,6 +198,7 @@ export const buildGreatSoftware = (): void => {
 [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://java.com)
 [![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://spring.io)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
+[![Symfony](https://skillicons.dev/icons?i=symfony&theme=dark)](https://symfony.com)
 
 ---
 
@@ -258,6 +207,7 @@ export const buildGreatSoftware = (): void => {
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
 [![NextJS](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)
 [![Vue](https://skillicons.dev/icons?i=vue&theme=dark)](https://vuejs.org)
+[![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://angular.io)
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://typescriptlang.org)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com)
 
@@ -276,29 +226,33 @@ export const buildGreatSoftware = (): void => {
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://mysql.com)
 [![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://mongodb.com)
+[![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch&theme=dark)](https://elastic.co)
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 ---
 
-### 🐳 DevOps & Tools
+### 🐳 DevOps, Observability & Tools
 
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://docker.com)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
 [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://linux.org)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://github.com/features/actions)
+[![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark)](https://nginx.org)
+[![Grafana](https://skillicons.dev/icons?i=grafana&theme=dark)](https://grafana.com)
 
 ![JHipster](https://img.shields.io/badge/JHipster-F8A100?style=for-the-badge&logo=jhipster&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0a9396?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-1b4965?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 5 — ARCHITECTURE DIAGRAMS (MERMAID)               -->
+<!-- SECTION 4 — ARCHITECTURE DIAGRAMS (MERMAID)               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -312,13 +266,13 @@ export const buildGreatSoftware = (): void => {
 ```mermaid
 graph TB
     subgraph CLIENT["🌐 Client Layer"]
-        WEB["⚛️ React / Next.js"]
+        WEB["⚛️ React / Next.js / Angular"]
         MOB["📱 Flutter / React Native"]
     end
 
     subgraph GATEWAY["🔀 API Gateway Layer"]
-        GW["🔀 API Gateway"]
-        AUTH["🔐 JWT Auth Service"]
+        GW["🔀 Nginx API Gateway"]
+        AUTH["🔐 JWT / OAuth2 Auth"]
         LB["⚖️ Load Balancer"]
     end
 
@@ -326,6 +280,7 @@ graph TB
         US["👤 User Service\n(Django DRF)"]
         PS["📦 Product Service\n(Spring Boot)"]
         OS["🛒 Order Service\n(Node.js)"]
+        SS["🔧 Core Service\n(Symfony)"]
         NS["🔔 Notification Service"]
         ERP["🏢 ERP Service\n(Odoo)"]
     end
@@ -333,31 +288,38 @@ graph TB
     subgraph DATA["🗄️ Data Layer"]
         PG["🐘 PostgreSQL"]
         RD["⚡ Redis Cache"]
+        ES["🔍 Elasticsearch"]
         MQ["📨 Message Queue"]
     end
 
+    subgraph OBS["📊 Observability"]
+        GF["📈 Grafana"]
+        SQ["🔎 SonarQube"]
+        LG["📋 Log Aggregator"]
+    end
+
     subgraph DEVOPS["🚀 DevOps"]
-        DK["🐳 Docker Compose"]
+        DK["🐳 Docker"]
         CI["⚡ CI/CD Pipeline"]
     end
 
-    WEB --> GW
-    MOB --> GW
-    GW --> AUTH
-    GW --> LB
-    LB --> US & PS & OS & ERP
+    WEB & MOB --> GW
+    GW --> AUTH --> LB
+    LB --> US & PS & OS & SS & ERP
     OS --> NS
-    US & PS & OS --> PG
-    US & PS --> RD
+    US & PS & OS & SS --> PG & RD
+    ES -.->|Search Index| PS
     OS --> MQ
+    SERVICES --> GF & LG
+    CI --> SQ
     DK --> SERVICES
-    CI --> DK
 
-    style CLIENT fill:#1a1a2e,color:#fff
-    style GATEWAY fill:#16213e,color:#fff
-    style SERVICES fill:#0f3460,color:#fff
-    style DATA fill:#533483,color:#fff
-    style DEVOPS fill:#2d6a4f,color:#fff
+    style CLIENT fill:#0d1b2a,color:#94d2bd
+    style GATEWAY fill:#1b4965,color:#caf0f8
+    style SERVICES fill:#0a9396,color:#ffffff
+    style DATA fill:#005f73,color:#e9d8a6
+    style OBS fill:#0d1b2a,color:#94d2bd
+    style DEVOPS fill:#1b4965,color:#caf0f8
 ```
 
 ---
@@ -367,26 +329,31 @@ graph TB
 ```mermaid
 sequenceDiagram
     participant C  as 🌐 Client App
-    participant G  as 🔀 API Gateway
+    participant N  as 🔀 Nginx Gateway
     participant A  as 🔐 Auth Service
-    participant B  as ⚙️ Backend (Django)
+    participant B  as ⚙️ Backend (Django/Symfony)
     participant O  as 🏢 Odoo ERP
     participant DB as 🐘 PostgreSQL
+    participant ES as 🔍 Elasticsearch
+    participant GF as 📊 Grafana
 
-    C->>G: HTTP Request + JWT Token
-    G->>A: Validate Token
-    A-->>G: ✅ Token Valid
-    G->>B: Forward Authenticated Request
+    C->>N: HTTP Request + JWT Token
+    N->>A: Validate JWT / OAuth2
+    A-->>N: ✅ Token Valid
+    N->>B: Forward Authenticated Request
     B->>DB: Query Local Data
     DB-->>B: Return Dataset
     B->>O: XML-RPC / JSON-RPC Call
     O->>DB: ERP Data Access
     DB-->>O: ERP Records
     O-->>B: Odoo Response
-    B-->>G: Aggregated Response
-    G-->>C: 200 OK + JSON Payload
+    B->>ES: Index / Search Request
+    ES-->>B: Search Results
+    B-->>N: Aggregated Response
+    N-->>C: 200 OK + JSON Payload
+    B-)GF: Emit Metrics & Logs
 
-    Note over C,DB: Full request lifecycle with ERP integration
+    Note over C,GF: Full lifecycle: Auth → ERP → Search → Observability
 ```
 
 ---
@@ -397,22 +364,26 @@ sequenceDiagram
 flowchart LR
     A["👨‍💻 Developer\nPush Code"] --> B["📋 GitHub\nRepository"]
     B --> C["⚡ GitHub Actions\nCI Triggered"]
-    C --> D["🧪 Run Tests\n(Unit + Integration)"]
-    D --> E{Tests Pass?}
-    E -- ❌ Fail --> F["🚨 Notify Dev\n(Email/Slack)"]
+    C --> D["🧪 Unit &\nIntegration Tests"]
+    D --> SQ["🔎 SonarQube\nCode Quality"]
+    SQ --> E{Quality Gate?}
+    E -- ❌ Fail --> F["🚨 Notify Dev"]
     E -- ✅ Pass --> G["🐳 Docker Build\n& Push Image"]
     G --> H["📦 Container\nRegistry"]
-    H --> I["🚀 Deploy to\nStaging"]
+    H --> I["🚀 Deploy to\nStaging via Nginx"]
     I --> J["🔍 Smoke Tests\n& QA"]
-    J --> K{QA Approved?}
-    K -- ❌ --> L["🔙 Rollback\nPrevious Version"]
+    J --> K{Approved?}
+    K -- ❌ --> L["🔙 Rollback"]
     K -- ✅ --> M["🌍 Deploy to\nProduction"]
-    M --> N["📊 Monitoring\n& Alerts"]
+    M --> GF["📊 Grafana\nMonitoring"]
+    M --> ES["🔍 Elasticsearch\nLog Analysis"]
 
-    style A fill:#1a1a2e,color:#fff
-    style M fill:#2d6a4f,color:#fff
+    style A fill:#0d1b2a,color:#94d2bd
+    style M fill:#0a9396,color:#ffffff
     style F fill:#7b2d2d,color:#fff
     style L fill:#7b2d2d,color:#fff
+    style GF fill:#1b4965,color:#caf0f8
+    style ES fill:#1b4965,color:#caf0f8
 ```
 
 ---
@@ -422,8 +393,8 @@ flowchart LR
 ```mermaid
 graph TD
     subgraph PRESENTATION["🎨 Presentation Layer"]
-        UI["React / Next.js / Flutter"]
-        API_C["API Client (Axios / Dio)"]
+        UI["React / Next.js / Angular / Flutter"]
+        API_C["API Client (Axios / Dio / Angular HttpClient)"]
     end
 
     subgraph APPLICATION["⚙️ Application Layer"]
@@ -432,102 +403,152 @@ graph TD
         DTO["DTOs & Serializers"]
     end
 
-    subgraph DOMAIN["🏛️ Domain Layer (Core)"]
+    subgraph DOMAIN["🏛️ Domain Layer — Core"]
         ENT["Entities / Models"]
         REP["Repository Interfaces"]
         EVT["Domain Events"]
     end
 
     subgraph INFRASTRUCTURE["🔧 Infrastructure Layer"]
-        ORM["ORM (Django / JPA)"]
+        ORM["ORM (Django / JPA / Doctrine)"]
         DB["PostgreSQL / Redis"]
-        EXT["External APIs / Odoo"]
+        EXT["Odoo ERP / External APIs"]
         MSG["Message Broker"]
+        SEARCH["Elasticsearch"]
+        OBS["Grafana · Nginx · SonarQube"]
     end
 
     UI --> API_C --> CTRL --> UC
     UC --> ENT & REP & EVT
-    REP --> ORM
-    ORM --> DB
+    REP --> ORM --> DB
     UC --> EXT
     EVT --> MSG
+    UC --> SEARCH
+    INFRASTRUCTURE --> OBS
 
-    style PRESENTATION fill:#1a1a2e,color:#a0a0ff
-    style APPLICATION fill:#16213e,color:#a0ffb8
-    style DOMAIN fill:#0f3460,color:#ffd700
-    style INFRASTRUCTURE fill:#533483,color:#ff9090
+    style PRESENTATION fill:#0d1b2a,color:#94d2bd
+    style APPLICATION fill:#1b4965,color:#caf0f8
+    style DOMAIN fill:#0a9396,color:#ffffff
+    style INFRASTRUCTURE fill:#005f73,color:#e9d8a6
 ```
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 6 — NEXT.JS CONFIG BLOCK                          -->
+<!-- SECTION 5 — TYPESCRIPT TECH PROFILE                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 〔 `Frontend Architecture` 〕
+## 〔 `Tech Profile` 〕
 
 </div>
 
-```javascript
-// next.config.js — Production Architecture Setup
-// ─────────────────────────────────────────────────────────────
-// Engineer : VOTRE NOM | Software Architect
-// Stack    : Next.js · TypeScript · TailwindCSS · DRF · JWT
-// ─────────────────────────────────────────────────────────────
+```typescript
+// ╔══════════════════════════════════════════════════════════════╗
+// ║  tech-profile.ts          Engineer : Maxime NOUKETOU        ║
+// ║  Role : Software Architect & Senior Fullstack Engineer      ║
+// ╚══════════════════════════════════════════════════════════════╝
 
-/** @type {import('next').NextConfig} */
+interface TechStack {
+  backend: string[];
+  frontend: string[];
+  mobile: string[];
+  erp: string[];
+  devops: string[];
+  databases: string[];
+  observability: string[];
+  security: string[];
+  architecture: string[];
+}
 
-const architectureConfig = {
-  engineer: "VOTRE NOM",
-  specialization: "Fullstack & Software Architecture",
-
-  frontendStack: [
-    "Next.js 14",
+const stack: TechStack = {
+  backend: [
+    "Python",
+    "Django",
+    "DRF",
+    "Java",
+    "Spring Boot",
+    "Node.js",
+    "Symfony",
+  ],
+  frontend: [
+    "React.js",
+    "Next.js",
+    "Vue.js",
+    "Angular",
     "TypeScript",
     "TailwindCSS",
-    "Zustand",
-    "React Query",
   ],
-  backendAPIs: ["Django REST Framework", "Spring Boot", "Node.js/Express"],
-  authStrategy: "JWT + Refresh Token Rotation + OAuth2",
-  rendering: ["SSR", "SSG", "ISR", "CSR — Context-aware strategy"],
-
-  performanceTargets: {
-    LCP: "< 1.2s",
-    FID: "< 50ms",
-    CLS: "< 0.05",
-    TTI: "< 2.0s",
-  },
-
-  designPrinciples: [
-    "Component-driven development",
-    "Feature-based folder structure",
-    "API abstraction layers",
-    "Global state management",
-    "Optimistic UI updates",
-    "Accessibility (a11y) first",
+  mobile: ["Flutter", "React Native"],
+  erp: ["Odoo", "OWL Framework", "XML-RPC", "JSON-RPC", "PostgreSQL"],
+  devops: [
+    "Docker",
+    "Git",
+    "Linux",
+    "CI/CD",
+    "JHipster",
+    "GitHub Actions",
+    "Nginx",
+  ],
+  databases: ["PostgreSQL", "MySQL", "Redis", "MongoDB", "Elasticsearch"],
+  observability: [
+    "Grafana",
+    "SonarQube",
+    "Elasticsearch",
+    "Kibana",
+    "Prometheus",
+  ],
+  security: [
+    "JWT",
+    "OAuth2",
+    "RBAC",
+    "HTTPS/TLS",
+    "API Rate Limiting",
+    "Input Validation",
+  ],
+  architecture: [
+    "Microservices",
+    "Clean Architecture",
+    "Domain Driven Design",
+    "CQRS",
+    "Event Driven Architecture",
+    "Hexagonal Architecture",
+    "API Gateway",
+    "REST / OpenAPI",
+    "High Availability",
+    "Scalability",
+    "Security First",
+    "Performance by Design",
   ],
 };
 
-module.exports = {
-  reactStrictMode: true,
-  swcMinify: true,
-  output: "standalone",
-  images: { domains: ["your-cdn.com", "api.yourapp.com"] },
-  async headers() {
-    return [{ source: "/(.*)", headers: securityHeaders }];
-  },
-};
+const principles: string[] = [
+  "SOLID",
+  "DRY",
+  "KISS",
+  "YAGNI",
+  "Separation of Concerns",
+  "Test Driven Development",
+  "Security First",
+  "Performance by Design",
+];
 
-// 🚀 Architected for performance. Engineered for scale.
+export const buildGreatSoftware = (): void => {
+  console.log(
+    "🚀 Maxime NOUKETOU — Architecting the future, one commit at a time.",
+  );
+  console.log(
+    `📦 Stack depth: ${Object.values(stack).flat().length} technologies mastered.`,
+  );
+  console.log(`🏛️  Principles: ${principles.join(" · ")}`);
+};
 ```
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 7 — SOFTWARE ARCHITECT EXPERTISE                  -->
+<!-- SECTION 6 — ARCHITECT EXPERTISE MINDMAP                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -538,47 +559,48 @@ module.exports = {
 
 ```mermaid
 mindmap
-  root(("🏛️\nSoftware\nArchitect"))
-    Architecture Patterns
+  root(("🏛️\nMaxime\nNOUKETOU"))
+    Architecture
       Clean Architecture
       Hexagonal Architecture
-      CQRS / Event Sourcing
+      CQRS · Event Sourcing
       Microservices
-      Monorepo Strategy
+      DDD
     System Design
-      Scalability by Design
+      Scalability
       High Availability
       Load Balancing
-      Caching Strategy
-      Database Sharding
-    API Design
-      RESTful APIs
-      API Versioning
-      Rate Limiting
-      API Gateway
-      OpenAPI / Swagger
+      Caching · Redis
+      Database Design
+    Observability
+      Grafana Dashboards
+      SonarQube Quality
+      Elasticsearch · Kibana
+      Prometheus Metrics
+      Nginx Routing
     Security
-      JWT / OAuth2
-      RBAC
-      Input Validation
-      HTTPS / TLS
+      JWT · OAuth2
+      RBAC · ACL
+      HTTPS · TLS
       Security Audits
-    DevOps Culture
-      CI/CD Pipelines
-      Docker Containerization
-      Infrastructure as Code
-      Monitoring & Alerting
+      Input Validation
     ERP Expertise
       Odoo Customization
       Module Development
       OWL Components
-      ERP Integration
+      XML-RPC Integration
+    DevOps Culture
+      CI/CD Pipelines
+      Docker
+      GitHub Actions
+      Infrastructure as Code
+      JHipster
 ```
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 8 — GITHUB STATS                                   -->
+<!-- SECTION 7 — GITHUB STATS                                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -587,24 +609,24 @@ mindmap
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B68EE&icon_color=7B68EE&text_color=ffffff&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=7B68EE&fire=ff6e6e&currStreakLabel=7B68EE" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a9396&icon_color=00b4d8&text_color=caf0f8&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=0a9396&fire=00b4d8&currStreakLabel=0a9396&sideLabels=caf0f8" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B68EE&text_color=ffffff&langs_count=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a9396&text_color=caf0f8&langs_count=12" width="48%" />
 <img src="https://github-profile-trophy.vercel.app/?username=VOTRE_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&theme=tokyo-night&bg_color=0d1117&color=7B68EE&line=7B68EE&point=ffffff&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&theme=tokyo-night&bg_color=0d1117&color=0a9396&line=00b4d8&point=caf0f8&hide_border=true" width="98%" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 9 — PROJECTS PREMIUM                              -->
+<!-- SECTION 8 — PROJECTS PREMIUM                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -624,12 +646,13 @@ mindmap
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - ✅ Custom Odoo modules & OWL components
 - ✅ Multi-company, multi-currency support
-- ✅ REST API layer for external integrations
-- ✅ Automated reporting & invoicing
+- ✅ REST API with Nginx reverse proxy
+- ✅ Grafana monitoring & SonarQube quality
 
 [![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/VOTRE_USERNAME/erp-platform)
 
@@ -638,17 +661,17 @@ mindmap
 
 ### ⚡ SaaS Microservices Platform
 
-> _Scalable multi-tenant SaaS with microservices_
+> _Scalable multi-tenant SaaS with full observability_
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-- ✅ Microservices with Spring Boot + JHipster
-- ✅ API Gateway + JWT authentication
-- ✅ Event-driven with async messaging
-- ✅ CI/CD with GitHub Actions + Docker
+- ✅ Spring Boot microservices + JHipster scaffold
+- ✅ Angular frontend with full auth flow
+- ✅ Grafana dashboards + Elasticsearch logs
+- ✅ SonarQube gates in CI/CD pipeline
 
 [![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/VOTRE_USERNAME/saas-platform)
 
@@ -659,38 +682,38 @@ mindmap
 
 ### 📱 Cross-Platform Mobile App
 
-> _Flutter app with Django REST backend_
+> _Flutter + Django REST + real-time features_
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 - ✅ Flutter cross-platform (iOS + Android)
-- ✅ Django REST Framework API
-- ✅ Real-time features with WebSockets
-- ✅ JWT + offline-first architecture
+- ✅ Django REST Framework + Redis cache
+- ✅ WebSockets real-time + offline-first
+- ✅ JWT auth + Nginx proxy + Docker deploy
 
 [![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/VOTRE_USERNAME/mobile-app)
 
 </td>
 <td width="50%">
 
-### 🔧 Developer Automation API
+### 🔧 Symfony REST API Platform
 
-> _REST API automation platform with full CI/CD_
+> _Enterprise REST API built with Symfony & DDD_
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- ✅ Node.js REST API with full OpenAPI docs
-- ✅ Next.js dashboard frontend
-- ✅ Role-based access control (RBAC)
-- ✅ Automated deploys with Docker + CI/CD
+- ✅ Symfony 7 + DDD + Clean Architecture
+- ✅ Next.js frontend dashboard
+- ✅ OpenAPI / Swagger full documentation
+- ✅ SonarQube quality + Docker CI/CD
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/VOTRE_USERNAME/dev-api)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/VOTRE_USERNAME/symfony-api)
 
 </td>
 </tr>
@@ -699,7 +722,142 @@ mindmap
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 10 — DEV PHILOSOPHY                               -->
+<!-- SECTION 9 — NEXT.JS CONFIG                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 〔 `Frontend Architecture` 〕
+
+</div>
+
+```javascript
+// ╔══════════════════════════════════════════════════════════════╗
+// ║  next.config.js — Production Architecture                   ║
+// ║  Engineer : Maxime NOUKETOU | Software Architect            ║
+// ╚══════════════════════════════════════════════════════════════╝
+
+/** @type {import('next').NextConfig} */
+
+const MAX_ARCH = {
+  engineer: "Maxime NOUKETOU",
+  role: "Software Architect & Fullstack Engineer",
+  frontendStack: [
+    "Next.js 14",
+    "TypeScript",
+    "TailwindCSS",
+    "Zustand",
+    "React Query",
+  ],
+  backendAPIs: [
+    "Django REST Framework",
+    "Spring Boot",
+    "Symfony",
+    "Node.js/Express",
+  ],
+  authStrategy: "JWT + Refresh Token Rotation + OAuth2",
+  rendering: ["SSR", "SSG", "ISR", "CSR — Context-aware"],
+  monitoring: ["Grafana", "SonarQube", "Elasticsearch", "Nginx Metrics"],
+  performanceKPIs: {
+    LCP: "< 1.2s",
+    FID: "< 50ms",
+    CLS: "< 0.05",
+    TTI: "< 2.0s",
+  },
+  designPrinciples: [
+    "Component-driven development",
+    "Feature-based folder structure",
+    "API abstraction layers",
+    "Optimistic UI updates",
+    "Accessibility (a11y) first",
+  ],
+};
+
+module.exports = {
+  reactStrictMode: true,
+  swcMinify: true,
+  output: "standalone",
+  images: { domains: ["cdn.maxnouketou.dev", "api.yourapp.com"] },
+  async headers() {
+    return [{ source: "/(.*)", headers: securityHeaders }];
+  },
+  async rewrites() {
+    return [
+      { source: "/api/:path*", destination: "https://api.yourapp.com/:path*" },
+    ];
+  },
+};
+// 🚀 Architected for performance. Engineered for scale by Maxime NOUKETOU.
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SECTION 10 — OBSERVABILITY STACK (BASH)                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 〔 `Observability & DevOps Stack` 〕
+
+</div>
+
+```bash
+#!/bin/bash
+# ╔══════════════════════════════════════════════════════════════╗
+# ║  devops-stack.sh        Engineer : Maxime NOUKETOU          ║
+# ║  Mission : Zero downtime. Full observability. Always on.    ║
+# ╚══════════════════════════════════════════════════════════════╝
+
+ENGINEER="Maxime NOUKETOU"
+MISSION="High Availability · Zero Downtime · Full Observability"
+
+# ── Observability Stack ─────────────────────────────────────────
+declare -A OBSERVABILITY=(
+  ["Grafana"]="Real-time dashboards & alerting"
+  ["Prometheus"]="Metrics collection & time-series DB"
+  ["Elasticsearch"]="Log aggregation & full-text search"
+  ["Kibana"]="Log visualization & analytics"
+  ["SonarQube"]="Continuous code quality & security gates"
+)
+
+# ── Infrastructure Stack ────────────────────────────────────────
+declare -A INFRA=(
+  ["Nginx"]="Reverse proxy · Load balancer · TLS termination"
+  ["Docker"]="Containerization & orchestration"
+  ["GitHub_Actions"]="CI/CD automation pipelines"
+  ["JHipster"]="Microservices scaffolding & generation"
+  ["Linux"]="Server administration & shell scripting"
+)
+
+# ── Security Stack ──────────────────────────────────────────────
+declare -A SECURITY=(
+  ["JWT"]="Stateless authentication tokens"
+  ["OAuth2"]="Authorization framework"
+  ["RBAC"]="Role-based access control"
+  ["HTTPS_TLS"]="Transport layer security"
+  ["Nginx_WAF"]="Web Application Firewall rules"
+)
+
+# ── Deploy Pipeline ─────────────────────────────────────────────
+deploy_to_production() {
+  echo "🔎 Running SonarQube quality gate..."
+  echo "🐳 Building Docker image..."
+  echo "🔀 Routing via Nginx load balancer..."
+  echo "📊 Emitting metrics to Grafana..."
+  echo "🔍 Indexing logs in Elasticsearch..."
+  echo "✅ Production deployment complete!"
+  echo "🚀 Engineered by: $ENGINEER"
+  echo "🎯 Mission: $MISSION"
+}
+
+deploy_to_production
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SECTION 11 — PHILOSOPHY (YAML)                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -709,52 +867,56 @@ mindmap
 </div>
 
 ```yaml
-# philosophy.yml — Engineering Principles
-# ─────────────────────────────────────────────────────────────
-# Author : VOTRE NOM | Software Architect
+# ╔══════════════════════════════════════════════════════════════╗
+# ║  philosophy.yml            Author : Maxime NOUKETOU         ║
+# ║  Mindset : Software Craftsman & System Thinker              ║
+# ╚══════════════════════════════════════════════════════════════╝
 
-engineer: "VOTRE NOM"
-mindset: "Software Craftsman"
+engineer: "Maxime NOUKETOU"
+mindset: "Software Craftsman · System Architect · Continuous Learner"
 
 principles:
   code_quality:
     - "Write code for humans first, machines second."
-    - "Clean code is not a luxury — it's a requirement."
-    - "Every function should do ONE thing, and do it well."
+    - "Clean code is not a luxury — it is a requirement."
+    - "SonarQube gates don't lie. Fix the smell, not the metric."
 
   architecture:
     - "Design for change: today's feature is tomorrow's legacy."
     - "Separate concerns. Always. No exceptions."
-    - "Prefer composition over inheritance."
-    - "The best architecture is the simplest one that works."
+    - "The best architecture is the simplest one that solves the problem."
+    - "Observability is not optional — Grafana should never surprise you."
 
   performance:
-    - "Measure before you optimize."
-    - "Cache strategically, invalidate carefully."
-    - "N+1 queries are architecture failures, not code bugs."
+    - "Measure before you optimize. Elasticsearch shows the truth."
+    - "Cache strategically with Redis. Invalidate carefully."
+    - "Nginx config is architecture. Treat it like code."
 
   security:
-    - "Security is not a feature — it's a foundation."
-    - "Never trust user input. Ever."
-    - "Fail securely. Log everything. Audit regularly."
+    - "Security is not a feature — it is a foundation."
+    - "JWT expiry is not optional. Refresh tokens are not magic."
+    - "Fail securely. Log with Elasticsearch. Alert via Grafana."
 
-  teamwork:
-    - "Code reviews are a gift, not a gatekeeping ritual."
-    - "Documentation is kindness to future developers."
-    - "The best engineers make their teammates better."
+  devops:
+    - "If it is not in CI/CD, it does not exist."
+    - "Docker makes environments honest."
+    - "A SonarQube red gate is a production blocker. Always."
 
   delivery:
-    - "Working software over perfect architecture."
-    - "Ship small. Iterate fast. Learn continuously."
-    - "Automate the boring. Focus on the valuable."
+    - "Ship small. Iterate fast. Observe everything."
+    - "Automate the boring. Engineer the valuable."
+    - "The pipeline is as important as the feature."
 
-motto: "Engineer solutions that outlast trends. Build systems that outlive teams."
+motto: >
+  "Engineer solutions that outlast trends.
+   Build systems that outlive teams.
+   Observe everything. Secure everything. Scale everything."
 ```
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 11 — CONTACT PREMIUM                              -->
+<!-- SECTION 12 — CONTACT PREMIUM                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -765,47 +927,22 @@ motto: "Engineer solutions that outlast trends. Build systems that outlive teams
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VOTRE_PROFIL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a9396?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VOTRE_USERNAME)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/VOTRE_NUMERO)
 
 <br/>
 
 > _"The best time to build scalable software was yesterday. The second best time is now."_
+> — **Maxime NOUKETOU**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=20&fontColor=a0a0ff&fontAlignY=65" width="100%"/>
+<!-- Snake contribution animation -->
+<img src="https://raw.githubusercontent.com/VOTRE_USERNAME/VOTRE_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:0a9396&height=130&section=footer&text=Let's+Build+Something+Great&fontSize=22&fontColor=94d2bd&fontAlignY=65" width="100%"/>
 
 </div>
-
----
-
-<!-- Snake Animation — Add to GitHub Actions workflow -->
-<!--
-  File: .github/workflows/snake.yml
-  ─────────────────────────────────
-  name: Generate Snake Animation
-  on:
-    schedule: [{ cron: "0 */12 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: VOTRE_USERNAME
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<!-- Once deployed, add this to your README: -->
-<!-- <img src="https://raw.githubusercontent.com/VOTRE_USERNAME/VOTRE_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
